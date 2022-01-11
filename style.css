@@ -1,0 +1,26 @@
+#title-font 
+{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 40px; 
+}
+
+.visible
+{
+    display: flex;
+}
+
+.nav-icon-size
+{
+    font-size: 24px;
+}
+
+.icon-config
+{
+    font-size: 24px;
+    margin-right: 10px;
+}
+
+.margin-top
+{
+    margin-top: 1rem !important;
+}
